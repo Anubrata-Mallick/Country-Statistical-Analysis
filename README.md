@@ -4,16 +4,19 @@ This project help individual to visualize the stats about the countries like eco
 
 ## Table of Contents
 
-- [Live Link](#introduction)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
+- [Live Link]
+- [Prerequisites]
+- [Getting Started]
+- [Project Structure]
+- [Data Sources]
 
 ## Live Link
 
 this project is deployed on : 
 
+## Demo
+![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im1.png)
+![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im2.png)
 ## Prerequisites
 
 - Python 3.7.1
