@@ -2,21 +2,30 @@
 
 This project help individual to visualize the stats about the countries like economy , GDP distribution, Education etc. and also answer some insightfull question
 
-## Table of Contents
-
--  Live Link 
--  Prerequisites 
--  Getting Started 
--  Project Structure 
--  Data Sources 
+![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im2.png)
 
 ## Live Link
 
-this project is deployed on : ![Country Economical Data Analysis](https://country-analysis.streamlit.app/)
+this project is deployed on : https://country-analysis.streamlit.app/
 
-## Demo
-![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im1.png)
-![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im2.png)
+# Project Folder Structure
+
+This repository is organized with the following folder structure:
+
+- `Analysis`: Jupyter data analysis RAW folder.
+  - `Economy page.ipynb` : Economical analysis
+  - `Education & Technology.ipynb`: Educational analysis
+  - `Overall Page.ipynb` : Overall analysis
+- `Dashbord`: Streamlit Application UI folder
+  - `Preprocessor.py`
+  - `Routers.py`
+  - `app.py` : Main file 
+  - `helper.py`
+  - `requirements.txt`
+- `Data`: Dataset
+   - `country_profile_variables.csv`
+ 
+   - 
 ## Prerequisites
 
 - Python 3.7.1
