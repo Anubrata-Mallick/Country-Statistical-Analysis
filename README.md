@@ -2,7 +2,7 @@
 
 This project help individual to visualize the stats about the countries like economy , GDP distribution, Education etc. and also answer some insightfull question
 
-![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im2.png)
+![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/Country%20Analysis%20Photo.jpg)
 
 # Project Folder Structure
 
