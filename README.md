@@ -1,12 +1,8 @@
-# Satistical Analysis of Countries
+# Satistical Analysis of Countries [Live Link](https://country-analysis.streamlit.app/)
 
 This project help individual to visualize the stats about the countries like economy , GDP distribution, Education etc. and also answer some insightfull question
 
 ![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im2.png)
-
-## Live Link
-
-this project is deployed on : https://country-analysis.streamlit.app/
 
 # Project Folder Structure
 
