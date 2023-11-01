@@ -4,15 +4,15 @@ This project help individual to visualize the stats about the countries like eco
 
 ## Table of Contents
 
-- [Live Link]
-- [Prerequisites]
-- [Getting Started]
-- [Project Structure]
-- [Data Sources]
+-  Live Link 
+-  Prerequisites 
+-  Getting Started 
+-  Project Structure 
+-  Data Sources 
 
 ## Live Link
 
-this project is deployed on : 
+this project is deployed on : ![Country Economical Data Analysis](https://country-analysis.streamlit.app/)
 
 ## Demo
 ![.](https://github.com/Anubrata-Mallick/Country-Statistical-Analysis/blob/main/images/im1.png)
